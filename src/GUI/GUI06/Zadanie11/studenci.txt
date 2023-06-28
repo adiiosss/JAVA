@@ -1,0 +1,6 @@
+Maria 12c 78
+Janina 12c 90
+Bartek 13c 68
+Wiktor 12c 45
+Kasia 12c 66
+Janek 13c 66

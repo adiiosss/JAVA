@@ -1,0 +1,7 @@
+a) Spowoduje błędy - brak Comparable
+
+b) True
+
+c) Spowoduje błędy - porównuje elementy używając metody compareTo, brak Comparable
+
+d) True
